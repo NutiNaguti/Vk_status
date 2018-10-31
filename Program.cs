@@ -28,7 +28,7 @@ namespace ConsoleApp5
         }
         public static void Metod()
         {
-            string token = "dd82658dc77e3eeac8bcd38bc9d1149e938d313c28a6609a9eb27209549e2963332802e68486c5c383906";
+            string token = "enter your token";
 
             var responseString = "";
             using (var client = new WebClient())
